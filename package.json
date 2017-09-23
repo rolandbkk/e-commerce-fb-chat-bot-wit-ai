@@ -1,0 +1,26 @@
+{
+  "name": "messengerbotwitai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "dateformat": "^1.0.12",
+    "express": "^4.13.4",
+    "json-parser": "^1.1.5",
+    "moment": "^2.14.1",
+    "node-wit": "^3.3.2",
+    "noodlejs": "^0.3.2",
+    "python": "0.0.4",
+    "request": "^2.71.0",
+    "scraperjs": "^1.2.0",
+    "uri-js": "^2.1.1",
+    "url-parse": "^1.1.1"
+  }
+}
